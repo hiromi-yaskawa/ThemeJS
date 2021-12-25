@@ -1,0 +1,11 @@
+Console.log(“10 + 8”);
+
+Console.log(10 + 8);//18
+
+Console.log(20 % 3);//2
+
+Console.log(‘20割る３の余りは2’ + 20 % 3 );//2
+
+Window.alert(“Hello world!!”);
+
+Window.alert(“これがダイアログボックスです。”);
